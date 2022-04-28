@@ -58,9 +58,9 @@
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/2D/Passes/PixelPerfectBackgroundPass.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/PostProcessPasses.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/Debug/DebugDisplaySettingsMaterial.cs" />
-     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/Decal/Entities/DecalDrawSystem.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/RendererFeatures/RenderObjects.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/2D/Passes/IRenderPass2D.cs" />
+     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/Decal/Entities/DecalDrawSystem.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/2D/Light2DPoint.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/ForwardLights.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Runtime/Decal/Entities/DecalEntityManager.cs" />
